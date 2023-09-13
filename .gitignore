@@ -1,0 +1,5 @@
+.idea
+/inputs/huge_dataset/
+/venv/
+/outputs/
+/.env
